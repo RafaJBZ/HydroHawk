@@ -41,7 +41,7 @@
 ### Installation
 #### Clone the Repository
 ```bash
-git@github.com:RafaJBZ/HydroHawk.git
+git clone git@github.com:RafaJBZ/HydroHawk.git
 cd hydrohawk
 ```
 
